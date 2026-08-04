@@ -1,4 +1,4 @@
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+# 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
 Bem-vindo(a) ao meu GitHub! Aqui compartilho projetos desenvolvidos durante minha formação, cursos e estudos na área de Tecnologia da Informação.
 
