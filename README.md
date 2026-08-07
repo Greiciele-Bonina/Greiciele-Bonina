@@ -1,38 +1,33 @@
 ```markdown
 <div align="center">
 
-# Greiciele Bonina 👋
+# 👋 Olá, eu sou a Greiciele Bonina
 
-### Estudante de Análise e Desenvolvimento de Sistemas
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-📍 Brasília - DF
-
-💼 Buscando oportunidade de **Estágio em Dados ou Banco de Dados**
+### 🎯 Buscando uma oportunidade de Estágio em Dados | Banco de Dados
 
 <br>
 
-<p>
 <a href="https://www.linkedin.com/in/greiciele-bonina/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:gregrebonina@hotmail.com">
 <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
-
 </div>
 
 ---
 
-# 👩🏻‍💻 Sobre mim
+# 👩‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, em transição para a área de Tecnologia da Informação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em transição para a área de Tecnologia da Informação.
 
-Atualmente busco desenvolver conhecimentos em programação, banco de dados e desenvolvimento de software por meio de cursos, projetos práticos e estudos contínuos.
+Atualmente concentro meus estudos em **Banco de Dados**, **SQL** e **Python**, desenvolvendo projetos práticos para consolidar meus conhecimentos.
 
-Meu objetivo é conquistar uma oportunidade de **Estágio em Dados ou Banco de Dados**, onde eu possa aprender, crescer profissionalmente e contribuir com a equipe.
+Meu objetivo é conquistar uma oportunidade de **Estágio em Dados ou Banco de Dados**, onde eu possa aprender, evoluir profissionalmente e contribuir com a equipe.
 
 ---
 
@@ -40,17 +35,21 @@ Meu objetivo é conquistar uma oportunidade de **Estágio em Dados ou Banco de D
 
 # 💻 Tecnologias
 
-<img src="https://skillicons.dev/icons?i=mysql,python,django,git,github&theme=light"/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,python,django,git,github&theme=light" />
 
 </div>
 
 ---
 
-# 📂 Projetos
+# 🚀 Projetos
 
-### 🎵 Spotify Music Database
+## 🎵 Spoty Music Database
 
-Projeto desenvolvido em **MySQL** como trabalho de conclusão de curso, envolvendo:
+Projeto desenvolvido em **MySQL** como trabalho de conclusão do curso de Banco de Dados.
+
+### Principais funcionalidades
 
 - Modelagem Conceitual
 - Modelagem Lógica
@@ -59,37 +58,44 @@ Projeto desenvolvido em **MySQL** como trabalho de conclusão de curso, envolven
 - Triggers
 - Consultas SQL
 
+➡️ Repositório:
+https://github.com/Greiciele-Bonina/Spoty-Music-Database
+
 ---
 
-### 🌐 Projeto Python com Django
+## 🌐 Python com Django
 
 Projeto prático desenvolvido durante o curso de **Python com Django (SENAI)**.
 
-O projeto teve como objetivo conhecer a estrutura de aplicações web utilizando o framework Django, explorando templates, organização das aplicações e integração com banco de dados.
+O objetivo foi conhecer a estrutura de aplicações web utilizando o framework Django e compreender sua organização durante o desenvolvimento de um projeto.
 
----
-
-# 🎓 Formação e Estudos
-
-- 📚 Análise e Desenvolvimento de Sistemas
-- 🗄️ Banco de Dados
-- 🐬 MySQL
-- 📝 SQL
-- 🐍 Python (básico)
-- 🌐 Desenvolvimento Web com Django
+➡️ Repositório:
+https://github.com/Greiciele-Bonina/Python-com-Django
 
 ---
 
 <div align="center">
 
-# 📫 Vamos nos conectar?
+# 📜 Certificados
+
+</div>
+
+- 🗄️ Banco de Dados
+- 🐍 Python com Django (80 horas)
+- 🖥️ Montador e Reparador de Computadores
+
+---
+
+<div align="center">
+
+# 📫 Contato
 
 <a href="https://www.linkedin.com/in/greiciele-bonina/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:gregrebonina@hotmail.com">
-<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
