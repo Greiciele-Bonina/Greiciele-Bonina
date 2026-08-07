@@ -1,50 +1,8 @@
-[README.md](https://github.com/user-attachments/files/30841512/README.md)
+<img width="1983" height="793" alt="ChatGPT Image 7 de ago  de 2026, 17_01_22" src="https://github.com/user-attachments/assets/dda66595-7b31-4464-a621-07d83081cdda" />
+[README (1).md](https://github.com/user-attachments/files/30841700/README.1.md)
 <div align="center">
 
-<svg width="100%" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ececec"/>
-      <stop offset="45%" stop-color="#d6d6d6"/>
-      <stop offset="100%" stop-color="#b8b8b8"/>
-    </linearGradient>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2b2b2b" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#2b2b2b" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#2b2b2b" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.15"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="900" height="260" fill="url(#bgGrad)"/>
-
-  <circle cx="70" cy="50" r="90" fill="#ffffff" opacity="0.20"/>
-  <circle cx="850" cy="220" r="110" fill="#ffffff" opacity="0.18"/>
-  <circle cx="780" cy="40" r="45" fill="#ffffff" opacity="0.18"/>
-  <circle cx="120" cy="230" r="35" fill="#ffffff" opacity="0.15"/>
-
-  <line x1="0" y1="0" x2="900" y2="0" stroke="#ffffff" stroke-opacity="0.4" stroke-width="4"/>
-  <line x1="0" y1="256" x2="900" y2="256" stroke="#2b2b2b" stroke-opacity="0.15" stroke-width="4"/>
-
-  <rect x="230" y="55" width="440" height="150" rx="18" fill="url(#cardGrad)" stroke="#ffffff" stroke-opacity="0.5" stroke-width="1"/>
-
-  <text x="450" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#232323" text-anchor="middle" letter-spacing="2">
-    Greiciele Bonina
-  </text>
-
-  <rect x="340" y="130" width="220" height="1.5" fill="url(#lineGrad)"/>
-
-  <text x="450" y="160" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#3a3a3a" text-anchor="middle" letter-spacing="1">
-    Estudante de Análise e Desenvolvimento de Sistemas
-  </text>
-
-  <text x="450" y="189" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#555555" text-anchor="middle" letter-spacing="3">
-    ESTÁGIO EM DADOS &#8226; BANCO DE DADOS
-  </text>
-</svg>
+<img src="./assets/banner.png" alt="Greiciele Bonina - Análise e Desenvolvimento de Sistemas - Estágio em Dados e Banco de Dados" width="100%" />
 
 </div>
 
@@ -109,36 +67,11 @@ O objetivo foi compreender a estrutura de aplicações web utilizando o framewor
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="220">
-
-🗄️<br>
-**Banco de Dados**
-
-</td>
-<td align="center" width="220">
-
-🐍<br>
-**Python Básico**
-
-</td>
-</tr>
-<tr>
-<td align="center" width="220">
-
-🌐<br>
-**Python com Django**
-
-</td>
-<td align="center" width="220">
-
-🖥️<br>
-**Montador e Reparador de Computadores**
-
-</td>
-</tr>
-</table>
+![Banco de Dados](https://img.shields.io/badge/🗄️_Banco_de_Dados-2b2b2b?style=for-the-badge&labelColor=2b2b2b&color=e0e0e0)
+![Python Básico](https://img.shields.io/badge/🐍_Python_Básico-2b2b2b?style=for-the-badge&labelColor=2b2b2b&color=e0e0e0)
+<br>
+![Python com Django](https://img.shields.io/badge/🌐_Python_com_Django-2b2b2b?style=for-the-badge&labelColor=2b2b2b&color=e0e0e0)
+![Montador e Reparador](https://img.shields.io/badge/🖥️_Montador_e_Reparador_de_Computadores-2b2b2b?style=for-the-badge&labelColor=2b2b2b&color=e0e0e0)
 
 </div>
 
