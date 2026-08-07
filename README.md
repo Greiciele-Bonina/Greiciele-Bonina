@@ -10,189 +10,136 @@ E-mail: gregrebonina@hotmail.com
 
 
 
-   <div align="center">
+````markdown
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=SOPHIA%20HONORATO&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+# Olá, eu sou a Greiciele Bonina! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;FULL+STACK+DEVELOPER;REACT+%7C+JAVA+%7C+PYTHON;AI+%7C+SOFTWARE+ENGINEERING;WELCOME+TO+MY+CODE+UNIVERSE"/>
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
+
+💼 Em transição para a área de Tecnologia da Informação, buscando uma oportunidade de **Estágio em Dados ou Banco de Dados**.
 
 </div>
 
 ---
 
-## 🤖 SOPHIA AI CORE
+## 👩‍💻 Sobre mim
 
-bash
-╭────────────────────────────╮
-│     SOPHIA SYSTEM v2.0     │
-╰────────────────────────────╯
+```javascript
+const Greiciele = {
 
-Initializing system...
+  name: "Greiciele Bonina",
 
-████████████████████ 100%
+  role: "Estudante de Análise e Desenvolvimento de Sistemas",
 
-✔️ Developer detected
-✔️ Creativity enabled
-✔️ Code engine activated
-✔️ Projects loaded
+  location: "Brasília, DF 🇧🇷",
 
-STATUS: ONLINE 🚀
+  objective: "Estágio em Dados ou Banco de Dados",
 
+  skills: [
 
----
+    "MySQL",
 
-## 👩‍💻 About Me
+    "SQL",
 
-javascript
-const Sophia = {
+    "Git",
 
- name: "Sophia Honorato",
+    "GitHub",
 
- role: "Full Stack Developer",
+    "Python (básico)",
 
- location: "São Paulo, Brazil 🇧🇷",
+    "Django (conhecimento introdutório)"
 
- stack: {
-    frontend: [
-      "React",
-      "JavaScript",
-      "TypeScript",
-      "HTML",
-      "CSS"
-    ],
+  ],
 
-    backend: [
-      "Java",
-      "Node.js",
-      "Python"
-    ],
+  currentlyLearning: [
 
-    database: [
-      "MySQL",
-      "Supabase"
-    ]
- },
+    "Python",
 
- tools: [
-   "Git",
-   "GitHub",
-   "Figma",
-   "VS Code"
- ],
+    "Banco de Dados",
 
- passion:
- "Building digital experiences 🚀"
+    "Git",
+
+    "GitHub"
+
+  ]
 
 }
-
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,python,mysql,supabase,git,github,figma,vscode,docker&perline=8"/>
-
-</div>
+````
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Tecnologias
 
-| 🚀 Project | 💡 Description |
-|---|---|
-| 💄 Divine | Beauty E-commerce |
-| ⚡ Core Sync | Business Dashboard |
-| 🌿 Nutre Care | Eco Makeup Brand |
-| 🌸 Mosaico Rosa | AI + Lovable Project |
-| 🌊 Mar & Brisa | Modern Landing Page |
-| 🎵 Projeto Music | Music Experience |
-| 🌍 Milton Santos | Educational Website |
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,python,django&theme=light"/>
+
+</p>
 
 ---
 
-## 🧠 Current Mission
+## 🚀 Projetos
 
-bash
-> Loading objectives...
-
-[██████████] React Development
-
-[████████░░] Backend Skills
-
-[███████░░░] Artificial Intelligence
-
-[██████████] Creating Projects
-
-STATUS:
-Never stop learning 🚀
-
+| Projeto                          | Descrição                                                                                                                                    |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🎵 **Spotify Music Database**    | Projeto de banco de dados desenvolvido em MySQL com modelagem conceitual e lógica, criação de tabelas, procedures, triggers e consultas SQL. |
+| 🌐 **Projeto Python com Django** | Projeto prático desenvolvido durante curso de Python com Django, explorando a estrutura de aplicações web utilizando o framework Django.     |
 
 ---
 
-## 📊 GitHub Analytics
+## 📚 Atualmente estudando
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sophiahonopato&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophiahonopato&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sophiahonopato&theme=tokyonight&hide_border=true"/>
-
-</div>
+* Banco de Dados
+* SQL
+* Python
+* Git e GitHub
+* Desenvolvimento Web com Django
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sophiahonopato&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Greiciele-Bonina&show_icons=true&theme=graywhite&hide_border=true"/>
 
-</div>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greiciele-Bonina&layout=compact&theme=graywhite&hide_border=true"/>
 
----
-
-## 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sophiahonopato/sophiahonopato/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+</p>
 
 ---
 
-## 🌎 Connect With Me
+## 🏆 Conquistas
 
-<div align="center">
+<p align="center">
 
-<a href="https://github.com/sophiahonopato">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Greiciele-Bonina&theme=flat&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+## 🌎 Contato
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/greiciele-bonina/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:gregrebonina@hotmail.com">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### 💜 "Turning ideas into code and code into experiences."
-
-<img src="https://komarev.com/ghpvc/?username=sophiahonopato&style=for-the-badge&color=8A2BE2"/>
+### 🤍 "Cada projeto representa um novo passo na minha evolução como desenvolvedora."
 
 </div>
+```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:6d28d9,100:a855f7"/>
