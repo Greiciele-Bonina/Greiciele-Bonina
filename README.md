@@ -1,10 +1,5 @@
 <img width="1983" height="793" alt="ChatGPT Image 7 de ago  de 2026, 17_01_22" src="https://github.com/user-attachments/assets/dda66595-7b31-4464-a621-07d83081cdda" />
-[README (1).md](https://github.com/user-attachments/files/30841700/README.1.md)
-<div align="center">
 
-<img src="./assets/banner.png" alt="Greiciele Bonina - Análise e Desenvolvimento de Sistemas - Estágio em Dados e Banco de Dados" width="100%" />
-
-</div>
 
 <br>
 
