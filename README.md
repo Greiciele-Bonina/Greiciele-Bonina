@@ -1,69 +1,41 @@
-[README.md](https://github.com/user-attachments/files/30841248/README.md)
+[README (1).md](https://github.com/user-attachments/files/30841414/README.1.md)
 <div align="center">
 
 <svg width="100%" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1c1c1c"/>
-      <stop offset="50%" stop-color="#4a4a4a"/>
-      <stop offset="100%" stop-color="#e6e6e6"/>
+      <stop offset="0%" stop-color="#f2f2f2"/>
+      <stop offset="50%" stop-color="#dcdcdc"/>
+      <stop offset="100%" stop-color="#c4c4c4"/>
     </linearGradient>
     <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#333333" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#333333" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#333333" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
   <rect width="900" height="220" fill="url(#bgGrad)"/>
 
-  <circle cx="90" cy="40" r="70" fill="#ffffff" opacity="0.03"/>
-  <circle cx="820" cy="190" r="90" fill="#ffffff" opacity="0.04"/>
-  <circle cx="750" cy="30" r="40" fill="#ffffff" opacity="0.03"/>
+  <circle cx="90" cy="40" r="70" fill="#ffffff" opacity="0.25"/>
+  <circle cx="820" cy="190" r="90" fill="#ffffff" opacity="0.2"/>
+  <circle cx="750" cy="30" r="40" fill="#ffffff" opacity="0.2"/>
 
-  <text x="450" y="95" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">
+  <text x="450" y="95" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#2b2b2b" text-anchor="middle" letter-spacing="2">
     Greiciele Bonina
   </text>
 
   <rect x="300" y="115" width="300" height="1.5" fill="url(#lineGrad)"/>
 
-  <text x="450" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#e0e0e0" text-anchor="middle" letter-spacing="1">
+  <text x="450" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#3d3d3d" text-anchor="middle" letter-spacing="1">
     Estudante de Análise e Desenvolvimento de Sistemas
   </text>
 
-  <text x="450" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#b5b5b5" text-anchor="middle" letter-spacing="3">
+  <text x="450" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#5c5c5c" text-anchor="middle" letter-spacing="3">
     ESTÁGIO EM DADOS &#8226; BANCO DE DADOS
   </text>
 </svg>
 
-</div>
-
-<br>
-
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=Greiciele-Bonina&color=808080&style=flat-square&label=Visualizações)
-![Status](https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-lightgrey?style=flat-square)
-![Location](https://img.shields.io/badge/localiza%C3%A7%C3%A3o-Bras%C3%ADlia%20--%20DF-lightgrey?style=flat-square)
-
-</div>
-
-<br>
-
-## 🖤 Sobre mim
-
-<div align="center">
-<table width="100%" style="border: none;">
-<tr>
-<td align="center" style="border: none;">
-
-Estou em transição de carreira para a área de **Tecnologia**, atualmente cursando **Análise e Desenvolvimento de Sistemas**.  
-Desenvolvo projetos práticos para aplicar os conhecimentos adquiridos ao longo da formação, com foco especial em **Banco de Dados, SQL e Python**.  
-Tenho interesse em seguir carreira na área de **Dados**, e busco constantemente aprender e evoluir tecnicamente através de estudo e prática.
-
-</td>
-</tr>
-</table>
 </div>
 
 <br>
@@ -73,10 +45,6 @@ Tenho interesse em seguir carreira na área de **Dados**, e busco constantemente
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql,python,django,git,github&theme=light" alt="Tecnologias" />
-
-<br><br>
-
-![SQL](https://img.shields.io/badge/SQL-Consultas%20%26%20Modelagem-e0e0e0?style=for-the-badge&logo=postgresql&logoColor=333333&labelColor=1c1c1c)
 
 </div>
 
@@ -131,20 +99,10 @@ O objetivo foi compreender a estrutura de aplicações web utilizando o framewor
 
 <div align="center">
 
-![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-Certificado-e0e0e0?style=for-the-badge&labelColor=1c1c1c)
-![Python Django](https://img.shields.io/badge/Python%20com%20Django-80%20horas-e0e0e0?style=for-the-badge&labelColor=1c1c1c)
-![Montador](https://img.shields.io/badge/Montador%20e%20Reparador%20de%20Computadores-Certificado-e0e0e0?style=for-the-badge&labelColor=1c1c1c)
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Greiciele-Bonina&show_icons=true&theme=graywhite&hide_border=true&title_color=333333&icon_color=808080&text_color=444444&bg_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greiciele-Bonina&layout=compact&theme=graywhite&hide_border=true&title_color=333333&text_color=444444&bg_color=ffffff" width="40%" />
+- Banco de Dados
+- Python Básico
+- Python com Django
+- Montador e Reparador de Computadores
 
 </div>
 
@@ -163,13 +121,5 @@ O objetivo foi compreender a estrutura de aplicações web utilizando o framewor
 <a href="mailto:gregrebonina@hotmail.com">
 <img src="https://img.shields.io/badge/E--mail-666666?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<sub>Feito com dedicação e vontade de aprender 🖤</sub>
 
 </div>
